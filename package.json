@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/youpiwaza/test-npm-avec-git/issues"
   },
-  "homepage": "https://github.com/youpiwaza/test-npm-avec-git#readme"
+  "homepage": "https://github.com/youpiwaza/test-npm-avec-git#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
